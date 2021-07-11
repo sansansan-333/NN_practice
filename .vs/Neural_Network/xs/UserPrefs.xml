@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{AE81F55F-0245-0C3A-1093-1900BD3A1B9B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyScript/Game/GameController.cs">
+    <Files>
+      <File FileName="Assets/MyScript/NeuralNetwork/NeuralNetwork.cs" Line="350" Column="47" />
+      <File FileName="Assets/MyScript/NeuralNetwork/NeuralNetworkLayer.cs" Line="214" Column="33" />
+      <File FileName="Assets/MyScript/Game/Brain.cs" Line="103" Column="21" />
+      <File FileName="Assets/MyScript/Game/UnitController.cs" Line="97" Column="74" />
+      <File FileName="Assets/MyScript/Game/GameController.cs" Line="50" Column="56" />
+      <File FileName="Assets/Log/debug1.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Neural_Network" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Log" expanded="True" />
+              <Node name="MyScript" expanded="True">
+                <Node name="Game" expanded="True">
+                  <Node name="GameController.cs" selected="True" />
+                </Node>
+                <Node name="Gizmos" expanded="True" />
+                <Node name="NeuralNetwork" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="926bd1b6-bb50-43bc-977a-d26f59088ff8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

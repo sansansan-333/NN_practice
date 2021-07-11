@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468dbc8f123a64fb49336cfb973643e5, type: 3}
+  m_Name: Learning Data Object 1
+  m_EditorClassIdentifier: 
+  inputSize: 3
+  outputSize: 1
+  description: "\u306B\u3058\u3055\u3093\u3058\u3000\u30BD\u30ED\u914D\u4FE1\u3001\u5973\u6027\ninput\n\u30C1\u30E3\u30F3\u30CD\u30EB\u767B\u9332\u8005\u6570(\u4E07\u4EBA)\n\u6295\u7A3F\u304B\u3089\u306E\u7D4C\u904E\u65E5\u6570\n\u30C4\u30A4\u30C3\u30BF\u30FC\u306E\u30D5\u30A9\u30ED\u30EF\u30FC(\u4E07\u4EBA)\n\noutput\n\u518D\u751F\u56DE\u6570(\uFF11\uFF10\uFF10\u56DE
+    x 0.1)"
+  PutCursorToSeeUsage: 0
+  stringDatas:
+  - input: '25.1
+
+      12
+
+      24.3'
+    output: 72.1
+  - input: '25.6
+
+      90
+
+      22.2'
+    output: 55.0
+  - input: '30.9
+
+      30
+
+      24.2'
+    output: 71.4
+  - input: '31.8
+
+      22
+
+      20.5'
+    output: 48.1
+  - input: '12.9
+
+      3
+
+      10.3'
+    output: 34.3
+  - input: '7.46
+
+      19
+
+      11'
+    output: 3.5
+  - input: '13.8
+
+      46
+
+      14'
+    output: 57.5
+  - input: '10.4
+
+      2
+
+      9.5'
+    output: 9.5
+  - input: '22.6
+
+      26
+
+      18.9'
+    output: 36.2
+  - input: '16.1
+
+      30
+
+      13.8'
+    output: 57.1
